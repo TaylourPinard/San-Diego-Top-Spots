@@ -1,0 +1,14 @@
+.name {
+    width: 15%;
+    border: 1px solid black;
+}
+
+.description {
+    width: 70%;
+    border: 1px solid black;
+}
+
+.location {
+    width: 15%;
+    border: 1px solid black;
+}
